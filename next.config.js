@@ -4,8 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // If using a repo name other than username.github.io, uncomment and set:
-  // basePath: '/your-repo-name',
+  basePath: '/ellen-herrera-official-website',
 }
 
 module.exports = nextConfig
